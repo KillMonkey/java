@@ -1,8 +1,5 @@
 package com.huawei;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class Hello {
 	public static void main(String[] args) {
